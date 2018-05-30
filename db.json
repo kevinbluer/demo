@@ -15,7 +15,7 @@
   "sample": {
     "name": "Test Image #1",
     "image": "http://01100010.com.s3.amazonaws.com/samples/leaves.jpg", 
-    "description": "Green leaves on a bright yellow background (2670 × 2001)", 
+    "description": "Green leaves on a bright yellow background (1400 × 1049)", 
     "attributes": {
       "theme": "pattern",
       "predominant_color": "yellow",
