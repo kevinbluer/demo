@@ -6,19 +6,15 @@
     },
     { "id": 2,
       "title": "Bose QuietComfort 35 Wireless Smart Headphones", 
-      "image": "http://01100010.com.s3.amazonaws.com/samples/swirls.jpg" 
+      "image": "/bose.png" 
     },
     { "id": 3,
       "title": "Apple MacBook Pro", 
-      "image": "http://01100010.com.s3.amazonaws.com/samples/leaves.jpg" 
+      "image": "/macbook.png" 
     },
     { "id": 4,
       "title": "Garmin 5X", 
-      "image": "http://01100010.com.s3.amazonaws.com/samples/swirls.jpg" 
-    },
-    { "id": 5,
-      "title": "Ledger Nano S", 
-      "image": "http://01100010.com.s3.amazonaws.com/samples/swirls.jpg" 
+      "image": "/garming.png" 
     }
   ],
   "profile": {
