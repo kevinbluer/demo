@@ -1,18 +1,27 @@
 {
-  "posts": [
-    { "id": 1, "title": "iPhone 8" },
-    { "id": 2, "title": "QuietComfort 35 Wireless Smart Headphones" },
-    { "id": 3, "title": "MacBook Pro" },
-    { "id": 4, "title": "Garmin 5X" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "items": [
+    { "id": 1,
+      "title": "Apple iPhone 8", 
+      "image": "http://01100010.com.s3.amazonaws.com/samples/leaves.jpg" 
+    },
+    { "id": 2,
+      "title": "Bose QuietComfort 35 Wireless Smart Headphones", 
+      "image": "http://01100010.com.s3.amazonaws.com/samples/swirls.jpg" 
+    },
+    { "id": 3,
+      "title": "Apple MacBook Pro", 
+      "image": "http://01100010.com.s3.amazonaws.com/samples/leaves.jpg" 
+    },
+    { "id": 4,
+      "title": "Garmin 5X", 
+      "image": "http://01100010.com.s3.amazonaws.com/samples/swirls.jpg" 
+    }
   ],
   "profile": {
     "name": "typicode"
   },
-  "sample": {
+  "samples": {
+    "id": 1,
     "name": "Test Image #1",
     "image": "http://01100010.com.s3.amazonaws.com/samples/leaves.jpg", 
     "description": "Green leaves on a bright yellow background (1400 × 1049)", 
@@ -25,6 +34,7 @@
     "background_color": "#F7F555"
   },
   "sample-2": {
+    "id": 2,
     "name": "Test Image #2",
     "image": "http://01100010.com.s3.amazonaws.com/samples/swirls.jpg", 
     "description": "Various swirls and shapes (1600 x 1131)", 
