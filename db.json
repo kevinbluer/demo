@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-    { "id": 4, "title": "Post 4" }
+    { "id": 1, "title": "iPhone 8" },
+    { "id": 2, "title": "QuietComfort 35 Wireless Smart Headphones" },
+    { "id": 3, "title": "MacBook Pro" },
+    { "id": 4, "title": "Garmin 5X" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
