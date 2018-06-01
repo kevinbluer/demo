@@ -15,6 +15,10 @@
     { "id": 4,
       "title": "Garmin 5X", 
       "image": "http://01100010.com.s3.amazonaws.com/samples/swirls.jpg" 
+    },
+    { "id": 5,
+      "title": "Ledger Nano S", 
+      "image": "http://01100010.com.s3.amazonaws.com/samples/swirls.jpg" 
     }
   ],
   "profile": {
