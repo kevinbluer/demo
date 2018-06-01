@@ -2,7 +2,7 @@
   "items": [
     { "id": 1,
       "title": "Apple iPhone 8", 
-      "image": "http://01100010.com.s3.amazonaws.com/samples/leaves.jpg" 
+      "image": "/iphone8.png" 
     },
     { "id": 2,
       "title": "Bose QuietComfort 35 Wireless Smart Headphones", 
