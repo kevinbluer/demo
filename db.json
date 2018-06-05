@@ -1,19 +1,27 @@
 {
   "items": [
-    { "id": 1,
-      "title": "Apple iPhone 8", 
-      "image": "/iphone8.png" 
+    {
+      "id": 1,
+      "name": "Apple iPhone 8",
+      "description: "The all-new design of iPhone 8 features durable glass, front and back. More advanced cameras. The powerful new A11 Bionic chip. And wireless charging.",
+      "image": "/iphone8.png"
     },
-    { "id": 2,
-      "title": "Bose QuietComfort 35 Wireless Smart Headphones", 
+    {
+      "id": 2,
+      "name": "Bose QuietComfort 35 Wireless Smart Headphones",
+      "description": "Lose the noise and wires. Lose yourself in the music. Learn more here! Innovative Technology. Powerful Sound. High-quality sound. Over-Ear Headphones. 50+ Years of Experience. Sports Headphones.",
       "image": "/bose.png" 
     },
-    { "id": 3,
-      "title": "Apple MacBook Pro", 
+    {
+      "id": 3,
+      "name": "Apple MacBook Pro",
+      "description": "A touch of genius. Learn more and shop now. Free shipping. Faster Storage. Faster Performance.",
       "image": "/macbook.png" 
     },
-    { "id": 4,
-      "title": "Garmin 5X", 
+    {
+      "id": 4,
+      "name": "Garmin Fenix 5X",
+      "description": "Combining world-class performance with the best features of our fitness and outdoor watches, fēnix 5X is the premiere multisport training companion.",
       "image": "/garmin.png" 
     }
   ],
